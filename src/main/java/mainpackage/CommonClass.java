@@ -9,5 +9,6 @@ public class CommonClass {
         System.out.println("osip create this text thirs time");
         System.out.println("lera");
         System.out.println("lera1");
+        System.out.println("lera2");
     }
 }
