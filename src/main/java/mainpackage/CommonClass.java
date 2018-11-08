@@ -7,5 +7,6 @@ public class CommonClass {
         System.out.println("osip create this text");
         System.out.println("osip create this text second time");
         System.out.println("osip create this text thirs time");
+        System.out.println("osip create this text fourth time");
     }
 }
